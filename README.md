@@ -14,4 +14,4 @@ Identify the medicines from images to discover:
 How to run the code?
 1. Please specify the environment
    using the Google API Key. Get your api key: https://aistudio.google.com/app/apikey
-2. Run the code and specify the image to analyze
+2. Run main.py the code and specify the image to analyze
